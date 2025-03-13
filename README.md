@@ -33,10 +33,7 @@ bundle install
 
 #### Test
 
-- Update your dependencies
-
-```sh
-bundle install
+- ll
 ```
 
 - Run tests
